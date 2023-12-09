@@ -6,7 +6,7 @@
 		<classes>
 			<class name="com.pos.testcases.CreateNewVendor" />
 			<class name="com.pos.testcases.EditVendor" />
-			<--<class name="com.pos.testcases.DeleteVendor" />
+			<!--<class name="com.pos.testcases.DeleteVendor" />
 			<class name="com.pos.testcases.CreateNewProduct" />
 			<class name="com.pos.testcases.EditProduct" />
 			<class name="com.pos.testcases.DeleteProduct" /> 

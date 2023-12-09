@@ -40,7 +40,7 @@ public class DriverInstance{
 			dc.setPlatform(Platform.LINUX);
 			options.merge(dc);
 
-			remoteWebdriver.set(new RemoteWebDriver(new URL("http://98.70.0.244:4444/wd/hub"), options));
+			remoteWebdriver.set(new RemoteWebDriver(new URL("http://98.70.40.155:4444/wd/hub"), options));
 			break;
 		case "firefox":
 			FirefoxOptions firefoxOptions = new FirefoxOptions();
